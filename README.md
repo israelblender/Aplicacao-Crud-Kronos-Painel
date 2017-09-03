@@ -1,7 +1,7 @@
 # Aplicacao Crud Kronos Painel
 
 <h3>Kronos Painel</h3>
-<p>Utilizando o Laravel 5.4 está aplicação realiza tarefas de cadastro de pessoa, alteração e remoção, podendo ter acesso aos
+<p>Utilizando o Laravel 5.4 esta aplicação realiza tarefas de cadastro de pessoa, alteração e remoção, podendo ter acesso aos
 dados principais e mais detalhados de cada pessoa.</p>
 <p></p>
 
