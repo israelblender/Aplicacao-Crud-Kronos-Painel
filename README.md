@@ -13,6 +13,12 @@ dados principais e mais detalhados de cada pessoa.</p>
   <li>Estado</li>
 </ul>
 
---No ato do cadastro a aplicação dispõe de seleção de estado juntamente com a seleção de cidades de acordo com o estado selecionado.<br>
---Aplicação possui o comando de remoção de cadastro sendo necessário clicar no botão "editar" do cadastro desejado para não haver
+--No ato do cadastro a aplicação dispõe de seleção de cidades de acordo com o estado já selecionado.<br>
+--A Aplicação possui o comando de remoção de cadastro sendo necessário clicar no botão "editar" do cadastro desejado para não haver
 remoções acidentais.
+
+Desenvolvida com as seguintes ferramentas:
+Laravel 5.4
+Apache 2.4.27
+Php 7.0.26
+Mysql 5.7.19
